@@ -36,18 +36,8 @@ These instructions will get you a copy of the project up and running on your loc
 - CSS
 - JavaScript
 
-## Demo
-
-Check out the live demo of the application at https://imsahadeb.github.io/The-Meal-App-Coding-Ninjas/
-
-## Authors
-
-- [@imsahadeb](https://github.com/imsahadeb)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Acknowledgments
 
-- The Meal DB API (https://www.themealdb.com
